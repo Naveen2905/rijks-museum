@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/rijks-museum/static/css/main.a3e90b1c.chunk.css",
+    "main.js": "/rijks-museum/static/js/main.319b213f.chunk.js",
+    "main.js.map": "/rijks-museum/static/js/main.319b213f.chunk.js.map",
+    "runtime-main.js": "/rijks-museum/static/js/runtime-main.1648a019.js",
+    "runtime-main.js.map": "/rijks-museum/static/js/runtime-main.1648a019.js.map",
+    "static/js/2.e25c129a.chunk.js": "/rijks-museum/static/js/2.e25c129a.chunk.js",
+    "static/js/2.e25c129a.chunk.js.map": "/rijks-museum/static/js/2.e25c129a.chunk.js.map",
+    "index.html": "/rijks-museum/index.html",
+    "precache-manifest.d547d10e9a498ccff1cb77be3c736c47.js": "/rijks-museum/precache-manifest.d547d10e9a498ccff1cb77be3c736c47.js",
+    "service-worker.js": "/rijks-museum/service-worker.js",
+    "static/css/main.a3e90b1c.chunk.css.map": "/rijks-museum/static/css/main.a3e90b1c.chunk.css.map",
+    "static/js/2.e25c129a.chunk.js.LICENSE.txt": "/rijks-museum/static/js/2.e25c129a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1648a019.js",
+    "static/js/2.e25c129a.chunk.js",
+    "static/css/main.a3e90b1c.chunk.css",
+    "static/js/main.319b213f.chunk.js"
+  ]
+}
